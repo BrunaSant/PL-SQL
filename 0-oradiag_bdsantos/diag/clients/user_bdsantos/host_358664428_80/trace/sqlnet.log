@@ -1,0 +1,10 @@
+Thu Feb 25 18:36:56 2021
+Create Relation ADR_CONTROL
+Create Relation ADR_INVALIDATION
+Create Relation INC_METER_IMPT_DEF
+Create Relation INC_METER_PK_IMPTS
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+Thu Feb 25 18:37:18 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+Thu Feb 25 18:39:01 2021
+Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]

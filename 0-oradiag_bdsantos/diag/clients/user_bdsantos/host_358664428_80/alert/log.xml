@@ -1,0 +1,43 @@
+<msg time='2021-02-25T18:36:56.722-03:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='BDSANTOS10' host_addr='fe80::75ff:2177:99cb:e105%64'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2021-02-25T18:36:56.865-03:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='BDSANTOS10' host_addr='fe80::75ff:2177:99cb:e105%64'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2021-02-25T18:36:56.976-03:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='BDSANTOS10' host_addr='fe80::75ff:2177:99cb:e105%64'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2021-02-25T18:36:57.155-03:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1941:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='BDSANTOS10' host_addr='fe80::75ff:2177:99cb:e105%64'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2021-02-25T18:36:57.324-03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='BDSANTOS10'
+ host_addr='fe80::75ff:2177:99cb:e105%64'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+ </txt>
+</msg>
+<msg time='2021-02-25T18:37:18.522-03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='BDSANTOS10'
+ host_addr='fe80::75ff:2177:99cb:e105%64'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag]
+ </txt>
+</msg>
+<msg time='2021-02-25T18:39:01.144-03:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='BDSANTOS10'
+ host_addr='fe80::75ff:2177:99cb:e105%64'>
+ <txt>Directory does not exist for read/write [C:\oraclexe\app\oracle\product\11.2.0\server\log] [C:\oraclexe\app\oracle\product\11.2.0\server\log\diag\clients]
+ </txt>
+</msg>
